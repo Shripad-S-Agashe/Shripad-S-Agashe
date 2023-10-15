@@ -6,9 +6,9 @@ XR Developer | Game Programmer | Designer & Developer
 
 I am a Game Developer & Designer with a strong foundation in Computer Engineering. Proven expertise in Game Design, Programming, and XR Development. Passionate about creating immersive gaming experiences that challenge boundaries and captivate audiences. Experienced in leading and contributing to national-level research projects for prestigious organizations. Eager to leverage technical skills and creative vision to drive innovation in the gaming industry.
 
-* 🌍  I'm based in Boston, Massachusetts
 * 🖥️  See my portfolio at [My Portfolio](http://ShripadAgashe.com)
 * ✉️  You can contact me at [shripad.agashe.business@gmail.com](mailto:shripad.agashe.business@gmail.com)
+* 🌍  I'm based in Boston, Massachusetts
 * 🚀  I'm currently working on [VR simulation and training tool for NAVSEA](http://www.shripadagashe.com/home/navsea)
 * 🤝  I'm open to collaborating on Exploring innovative projects and game development opportunities that push the boundaries of storytelling and technology.
 * ⚡  Feel free to reach out if you have exciting projects, ideas, or opportunities related to game design, XR development, or cutting-edge technologies. I'm always open to new and creative challenges.
