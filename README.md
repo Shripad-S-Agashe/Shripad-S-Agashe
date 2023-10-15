@@ -12,7 +12,7 @@ I am a Game Developer & Designer with a strong foundation in Computer Engineerin
 * 🚀  I'm currently working on [VR simulation and training tool for NAVSEA](http://www.shripadagashe.com/home/navsea)
 * 🤝  I'm open to collaborating on Exploring innovative projects and game development opportunities that push the boundaries of storytelling and technology.
 * ⚡  Feel free to reach out if you have exciting projects, ideas, or opportunities related to game design, XR development, or cutting-edge technologies. I'm always open to new and creative challenges.
-* 
+  
 ### Skills
 
 
